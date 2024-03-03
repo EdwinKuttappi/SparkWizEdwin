@@ -1,0 +1,9 @@
+[ {
+  "username" : "User1",
+  "gametype" : "binary",
+  "score" : 200
+}, {
+  "username" : "User2",
+  "gametype" : "binary",
+  "score" : 800
+} ]
